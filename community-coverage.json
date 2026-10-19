@@ -1,0 +1,200 @@
+[
+  {
+    "original": "https://3214ch.com/hamanasu",
+    "new": "community/hamanasu.html",
+    "name": "はまなすシール会",
+    "photos": [
+      {
+        "path": "assets/community/hamanasu-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/hamanasu.jpg",
+        "number": 1
+      }
+    ],
+    "tables": [
+      20
+    ]
+  },
+  {
+    "original": "https://3214ch.com/shinkoukai",
+    "new": "community/shinkoukai.html",
+    "name": "三石こんぶ焼酎振興会",
+    "photos": [
+      {
+        "path": "assets/community/shinkoukai-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/konbu_shochu.jpg",
+        "number": 1
+      }
+    ],
+    "tables": [
+      11
+    ]
+  },
+  {
+    "original": "https://3214ch.com/syoutenkai",
+    "new": "community/syoutenkai.html",
+    "name": "三石商店会",
+    "photos": [
+      {
+        "path": "assets/community/syoutenkai-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/syoutenkai.jpg",
+        "number": 1
+      }
+    ],
+    "tables": [
+      23
+    ]
+  },
+  {
+    "original": "https://3214ch.com/rengoukai",
+    "new": "community/rengoukai.html",
+    "name": "三石商業連合会",
+    "photos": [
+      {
+        "path": "assets/community/rengoukai-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/rengoukai.png",
+        "number": 1
+      }
+    ],
+    "tables": [
+      51
+    ]
+  },
+  {
+    "original": "https://3214ch.com/osakana-map",
+    "new": "community/osakana-map.html",
+    "name": "三石おさかなマップ",
+    "photos": [
+      {
+        "path": "assets/community/osakana-map-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/osakana-map/osakana-map01.jpg",
+        "number": 1
+      },
+      {
+        "path": "assets/community/osakana-map-2.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/osakana-map/osakana-map02.jpg",
+        "number": 2
+      },
+      {
+        "path": "assets/community/osakana-map-3.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/osakana-map/osakana-map03.jpg",
+        "number": 3
+      },
+      {
+        "path": "assets/community/osakana-map-4.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/osakana-map/osakana-map04.jpg",
+        "number": 4
+      }
+    ],
+    "tables": []
+  },
+  {
+    "original": "https://3214ch.com/mitsuishi-info",
+    "new": "community/mitsuishi-info.html",
+    "name": "みついしについて",
+    "photos": [
+      {
+        "path": "assets/mitsuishi.jpg",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/mitsuishi/mitsuishi.jpg",
+        "number": 1
+      },
+      {
+        "path": "assets/konbu.jpg",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/info/konbu.jpg",
+        "number": 2
+      },
+      {
+        "path": "assets/houraisan.jpg",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/info/houraisan.jpg",
+        "number": 3
+      },
+      {
+        "path": "assets/youkan.jpg",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/info/youkan.jpg",
+        "number": 4
+      },
+      {
+        "path": "assets/sakura.jpg",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/info/sakura.jpg",
+        "number": 5
+      }
+    ],
+    "tables": [
+      6,
+      13
+    ]
+  },
+  {
+    "original": "https://3214ch.com/shizunai-sakura",
+    "new": "community/shizunai-sakura.html",
+    "name": "しずない桜まつり",
+    "photos": [
+      {
+        "path": "assets/community/shizunai-sakura-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/sakura/sakura-01.jpg",
+        "number": 1
+      },
+      {
+        "path": "assets/community/shizunai-sakura-2.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/sakura/sakura2022.jpg",
+        "number": 2
+      },
+      {
+        "path": "assets/community/shizunai-sakura-3.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/sakura/sakura2022_map.jpg",
+        "number": 3
+      }
+    ],
+    "tables": []
+  },
+  {
+    "original": "https://3214ch.com/houraisan-matsuri2018",
+    "new": "community/houraisan-matsuri2018.html",
+    "name": "みついし蓬莱山まつり",
+    "photos": [
+      {
+        "path": "assets/community/houraisan-matsuri2018-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/houraisan/2018/shimenawa.jpg",
+        "number": 1
+      },
+      {
+        "path": "assets/community/houraisan-matsuri2018-2.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/houraisan/2018/poster.jpg",
+        "number": 2
+      },
+      {
+        "path": "assets/community/houraisan-matsuri2018-3.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/houraisan/2018/map.jpg",
+        "number": 3
+      }
+    ],
+    "tables": [
+      3,
+      12
+    ]
+  },
+  {
+    "original": "https://3214ch.com/natsumatsuri2017",
+    "new": "community/natsumatsuri2017.html",
+    "name": "新ひだか夏まつり",
+    "photos": [
+      {
+        "path": "assets/community/natsumatsuri2017-1.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/natsumaturi/natsumaturi.jpg",
+        "number": 1
+      },
+      {
+        "path": "assets/community/natsumatsuri2017-2.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/natsumaturi/hanabi.jpg",
+        "number": 2
+      },
+      {
+        "path": "assets/community/natsumatsuri2017-3.webp",
+        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/natsumaturi/poster-natsumaturi.jpg",
+        "number": 3
+      }
+    ],
+    "tables": [
+      2
+    ]
+  }
+]
