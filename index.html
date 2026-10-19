@@ -33,6 +33,7 @@
 <script>
 const menuButton=document.querySelector('.menu');const navigation=document.querySelector('nav');menuButton.addEventListener('click',()=>{const opened=menuButton.getAttribute('aria-expanded')!=='true';menuButton.setAttribute('aria-expanded',String(opened));navigation.classList.toggle('open',opened)});navigation.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>{navigation.classList.remove('open');menuButton.setAttribute('aria-expanded','false')}));let activeCategory='all';const searchInput=document.querySelector('#search');const filterButtons=[...document.querySelectorAll('[data-filter]')];function filterShops(){let count=0;const query=searchInput.value.trim().toLocaleLowerCase();document.querySelectorAll('.card').forEach(card=>{const visible=(activeCategory==='all'||card.dataset.category.split(' ').includes(activeCategory))&&card.dataset.keywords.toLocaleLowerCase().includes(query);card.hidden=!visible;if(visible)count++});document.querySelector('#empty').hidden=count>0;filterButtons.forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.filter===activeCategory)))}filterButtons.forEach(button=>button.addEventListener('click',()=>{activeCategory=button.dataset.filter;filterShops()}));searchInput.addEventListener('input',filterShops);document.querySelectorAll('[data-quick]').forEach(link=>link.addEventListener('click',()=>{activeCategory=link.dataset.quick;searchInput.value='';filterShops()}));
 </script>
-<script src="shops.js"></script>
+<link rel="stylesheet" href="shops.css?v=3">
+<script src="shops-data.js?v=3"></script>
+<script src="shops.js?v=3"></script>
 </body></html>
-
