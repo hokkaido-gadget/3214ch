@@ -1,0 +1,648 @@
+[
+  {
+    "id": "tomo",
+    "name": "味処 友",
+    "category": "food",
+    "label": "食事・一品料理",
+    "symbol": "食",
+    "title": "お昼ごはんも、夜の一杯も。",
+    "intro": "寿司、天ぷら、定食、一品料理。幅広い料理が紹介されている、三石本町のお食事処です。",
+    "story": "現サイトでは80品以上のメニューを紹介。食事をしっかり楽しみたい昼にも、友人と一杯を楽しみたい夜にも、選ぶ楽しさがあるお店として掲載されています。",
+    "items": [
+      [
+        "寿司・天ぷら",
+        "現サイトで紹介されている料理の一例です。"
+      ],
+      [
+        "定食",
+        "お昼ごはんの候補に。現在の内容や提供時間は店舗へ。"
+      ],
+      [
+        "一品料理",
+        "夜の食事にも。メニュー・料金は最新の案内をご確認ください。"
+      ]
+    ],
+    "address": "新ひだか町三石本町15-2",
+    "phone": "0146-49-2850",
+    "hours": "11:00〜14:00 / 17:00〜23:00",
+    "closed": "不定休",
+    "source": "https://3214ch.com/shop/tomo",
+    "sourceName": "現サイトの店舗紹介",
+    "originalSource": "https://3214ch.com/shop/tomo",
+    "official": "",
+    "photos": [
+      {
+        "path": "assets/shops/tomo-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/tomo01.jpg",
+        "caption": "味処 友の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/tomo-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/IMG_6106.jpg",
+        "caption": "味処 友の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/tomo-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/tomo03.jpg",
+        "caption": "味処 友の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "isari",
+    "category": "food",
+    "label": "居酒屋・魚介料理",
+    "title": "三石の旬を、漁師から食卓へ。",
+    "intro": "地元の漁師から仕入れる魚介が主役。刺身、煮付け、焼き物で、三石の海の季節を伝える居酒屋です。",
+    "story": "地元の漁師とのつながりを生かし、この沖で獲れる魚介を料理に。現サイトではサメガレイ、ホッキ、八角、ハタハタ、イカなどが紹介されています。魚の種類は季節と漁の状況で変わるため、その日に出会える海の幸をお店で確かめる楽しみがあります。",
+    "items": [
+      [
+        "刺身・煮付け・焼き物",
+        "旬の魚介を、さまざまな調理で味わうお店です。"
+      ],
+      [
+        "土地と季節の魚介",
+        "サメガレイや八角なども紹介されています。当日の入荷・提供内容はお店へ。"
+      ]
+    ],
+    "name": "居酒屋 漁",
+    "hours": "11:00～23:00",
+    "closed": "不定休（要問合せ）",
+    "phone": "0146-33-2525",
+    "address": "北海道日高郡新ひだか町三石本町14",
+    "source": "https://3214ch.com/shop/isari",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/isari",
+    "official": "",
+    "photos": [
+      {
+        "path": "assets/shops/isari-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/isari01.jpg",
+        "caption": "居酒屋 漁の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/isari-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/888533624d6fc6f11425a0a66592b603.jpg",
+        "caption": "居酒屋 漁の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/isari-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/isari03.jpg",
+        "caption": "居酒屋 漁の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "isogai",
+    "category": "shopping food",
+    "label": "日高昆布・昆布調味料",
+    "title": "贈りものにも、いつもの台所にも。",
+    "intro": "贈答用から家庭用まで日高昆布を扱う専門店。昆布塩や昆布粉など、毎日の料理に使える商品もそろえています。",
+    "story": "昆布そのものを選ぶだけでなく、手軽に使える調味料にも出会えるお店です。現サイトには、昆布塩の「こんぶでしょ」、あらびき昆布粉、みついし昆布一味が掲載されています。贈る相手や普段の料理を思い浮かべながら、昆布の使い方を広げられます。",
+    "items": [
+      [
+        "贈答用・家庭用の昆布",
+        "用途に合わせて選べる昆布を紹介しています。"
+      ],
+      [
+        "こんぶでしょ",
+        "現サイトに掲載された昆布塩。"
+      ],
+      [
+        "あらびき昆布粉・みついし昆布一味",
+        "日々の料理に取り入れられる昆布の調味料です。販売状況は要確認。"
+      ]
+    ],
+    "name": "磯貝嘉市商店",
+    "hours": "8:30～17:00",
+    "closed": "不定休",
+    "phone": "0146-33-2418",
+    "address": "新ひだか町三石越海町144",
+    "source": "https://3214ch.com/shop/isogai",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/isogai",
+    "official": "https://www.kaichi-shoten.com/",
+    "photos": [
+      {
+        "path": "assets/shops/isogai-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/isogai01.jpg",
+        "caption": "磯貝嘉市商店の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/isogai-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/isogai02.jpg",
+        "caption": "磯貝嘉市商店の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/isogai-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/isogai03.jpg",
+        "caption": "磯貝嘉市商店の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "kumahura",
+    "category": "food",
+    "label": "食事・コーヒー",
+    "title": "太平洋を眺めて、厚切りの一皿を。",
+    "intro": "健酵豚の厚切りポークチャップを紹介するお店。新ひだか町の食材と、オリジナルブレンドのコーヒーも魅力です。",
+    "story": "太平洋を眺めながらの食事を案内する「くまのフライパン」。できる限り新ひだか町産の食材を用い、地域のおいしさを料理で届けています。しっかり食べたい日のポークチャップにも、ドライブの途中のコーヒー休憩にも、立ち寄るきっかけがあります。",
+    "items": [
+      [
+        "健酵豚の厚切りポークチャップ",
+        "現サイトで紹介される一皿。提供状況・料金はお店へご確認ください。"
+      ],
+      [
+        "新ひだか町産の食材",
+        "地元の食材を可能な限り使う姿勢が紹介されています。"
+      ],
+      [
+        "オリジナルブレンドのコーヒー",
+        "食事だけでなく、休憩での立ち寄りも案内されています。"
+      ]
+    ],
+    "name": "くまのフライパン",
+    "hours": "11:00～14:30、 / 17:00～20:00（ラストオーダー19:30）",
+    "closed": "毎週日曜日と毎週月曜日の夜、お休みです。",
+    "phone": "080-9619-9090",
+    "address": "新ひだか町三石鳧舞129-2",
+    "source": "https://3214ch.com/shop/kumahura",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/kumahura",
+    "official": "https://kuma-hura.com/",
+    "photos": [
+      {
+        "path": "assets/shops/kumahura-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2020/05/IMG_8063.jpeg",
+        "caption": "くまのフライパンの紹介写真 1"
+      },
+      {
+        "path": "assets/shops/kumahura-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2020/05/kumahura1.jpg",
+        "caption": "くまのフライパンの紹介写真 2"
+      },
+      {
+        "path": "assets/shops/kumahura-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2020/05/kumahura2.jpg",
+        "caption": "くまのフライパンの紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "kurodon",
+    "category": "food",
+    "label": "焼肉・こぶ黒",
+    "title": "昆布のまちで出会う、黒毛和牛。",
+    "intro": "昆布を飼料に取り入れて育てた黒毛和牛「こぶ黒」を紹介する焼肉店。地元の豚肉「健酵豚」も扱っています。",
+    "story": "2019年8月29日に開店したと紹介される「黒毛和牛のドン」。まつもと牧場が名づけた「こぶ黒」は、昆布と黒毛和牛を合わせた名前です。現サイトでは飼料へのこだわりとともに、焼肉や一品料理が紹介されています。三石の昆布と畜産のつながりを、食事を通して知ることができます。",
+    "items": [
+      [
+        "こぶ黒の焼肉",
+        "昆布を食べて育った黒毛和牛。部位や仕入れ状況はお店へ。"
+      ],
+      [
+        "一品料理",
+        "焼肉のほかにも料理を紹介しています。現在のメニューは要確認。"
+      ],
+      [
+        "健酵豚",
+        "地元の豚肉も現サイトに掲載されています。"
+      ]
+    ],
+    "name": "黒毛和牛のドン",
+    "hours": "ランチ：11：00～14：00 / ディナー：17：00～23：00（ラストオーダー22：30）",
+    "closed": "日曜日 / 第3月曜日",
+    "phone": "0146-37-1129",
+    "address": "新ひだか町三石本町57-1",
+    "source": "https://3214ch.com/shop/kurodon",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/kurodon",
+    "official": "https://kobu-kuro.com/",
+    "photos": [
+      {
+        "path": "assets/shops/kurodon-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2020/05/kurodon.jpg",
+        "caption": "黒毛和牛のドンの紹介写真 1"
+      },
+      {
+        "path": "assets/shops/kurodon-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2020/05/kurodon1.jpg",
+        "caption": "黒毛和牛のドンの紹介写真 2"
+      },
+      {
+        "path": "assets/shops/kurodon-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2020/05/kurodon3.jpg",
+        "caption": "黒毛和牛のドンの紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "nakamura",
+    "name": "中村薬局",
+    "category": "life shopping",
+    "label": "薬局・地域グッズ",
+    "symbol": "暮",
+    "title": "まちの暮らしと、旅のそばに。",
+    "intro": "旅先で困ったときにも知っておきたい薬局。現サイトでは、こんぶマングッズの取り扱いも紹介されています。",
+    "story": "地域の薬局としての紹介に加え、三石のキャラクター「こんぶマン」のグッズも掲載されています。暮らしの用事と地域のお土産、二つの視点で知っておきたいお店です。",
+    "items": [
+      [
+        "旅行中の立ち寄り先として",
+        "現サイトでは旅行中の体調不良や水分補給について案内しています。対応内容は店舗にご確認ください。"
+      ],
+      [
+        "こんぶマングッズ",
+        "地域ならではのグッズ。現在の取り扱い・在庫は要確認です。"
+      ]
+    ],
+    "address": "新ひだか町三石本町115-1",
+    "phone": "0146-32-3558",
+    "hours": "9:00〜17:00",
+    "closed": "土曜・日曜・祝日",
+    "source": "https://3214ch.com/shop/nakamura",
+    "sourceName": "現サイトの店舗紹介",
+    "caution": "現サイト内で電話番号の異なる記載があるため、店舗詳細ページの番号を参考掲載しています。発信前に最新の連絡先をご確認ください。",
+    "originalSource": "https://3214ch.com/shop/nakamura",
+    "official": "http://www.mitsuishi-ph.com/",
+    "photos": [
+      {
+        "path": "assets/shops/nakamura-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/DSC4043.jpg",
+        "caption": "中村薬局の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/nakamura-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/nakamur01.jpg",
+        "caption": "中村薬局の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/nakamura-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/DSC4034.jpg",
+        "caption": "中村薬局の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "fuyusawa",
+    "name": "ふゆさわ精肉店",
+    "category": "shopping food",
+    "label": "精肉・手作り惣菜",
+    "symbol": "肉",
+    "title": "今夜のおかずから、特別な一皿まで。",
+    "intro": "昭和34年創業。みついし牛や手作りの惣菜を紹介している、国道235号沿いの精肉店です。",
+    "story": "好みや予算に合わせた肉のスライスを案内するお店。現サイトには、みついし牛の精肉に加え、コロッケやハンバーグなどの手作り品も掲載されています。",
+    "items": [
+      [
+        "みついし牛",
+        "ヒレやサーロインなどを紹介。部位・等級・価格・在庫は店舗へ確認してください。"
+      ],
+      [
+        "手作りのおかず",
+        "みついし牛入りコロッケ、カレーコロッケ、ハンバーグなどが紹介されています。"
+      ],
+      [
+        "カレーパン・ドーナッツ",
+        "現サイトに掲載された手作り品。販売日・時間・品揃えは要確認です。"
+      ]
+    ],
+    "address": "新ひだか町三石本町153-1",
+    "phone": "0146-33-2515",
+    "hours": "4〜10月 9:00〜19:00 / 11〜3月 9:00〜18:30 / 日曜 9:00〜18:00",
+    "closed": "1月1日",
+    "source": "https://3214ch.com/shop/fuyusawa",
+    "sourceName": "現サイトの店舗紹介",
+    "originalSource": "https://3214ch.com/shop/fuyusawa",
+    "official": "",
+    "photos": [
+      {
+        "path": "assets/shops/fuyusawa-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/fuyusawa01.jpg",
+        "caption": "ふゆさわ精肉店の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/fuyusawa-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/fuyusawa02.jpg",
+        "caption": "ふゆさわ精肉店の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/fuyusawa-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/fuyusawa03.jpg",
+        "caption": "ふゆさわ精肉店の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "marufuku",
+    "category": "shopping food",
+    "label": "たらこ・水産加工",
+    "title": "道内産の原卵と、手仕事へのこだわり。",
+    "intro": "たらこを中心に扱う水産加工のお店。道内産の原卵を使い、手作業と塩味を大切に加工していると紹介されています。",
+    "story": "三石港町のマルフク池田水産。現サイトでは、道内産の原卵を選び、手作業を重ねてたらこを加工する姿勢が紹介されています。出荷は数量限定との案内があるため、購入や取り寄せを考えている場合は、まずお店に確認してから訪れると安心です。",
+    "items": [
+      [
+        "道内産の原卵を使ったたらこ",
+        "原料と手作業へのこだわりを紹介しています。"
+      ],
+      [
+        "数量限定の出荷",
+        "現サイトの案内です。現在の注文方法・出荷日・在庫はお問い合わせください。"
+      ]
+    ],
+    "name": "マルフク池田水産",
+    "hours": "8:00～18：00",
+    "closed": "不定休",
+    "phone": "0146-33-2759",
+    "address": "北海道日高郡新ひだか町三石港町10",
+    "source": "https://3214ch.com/shop/marufuku",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/marufuku",
+    "official": "http://marufukuikeda.com/",
+    "photos": [
+      {
+        "path": "assets/shops/marufuku-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/05/s_marufuku2-e1495185222304.jpg",
+        "caption": "マルフク池田水産の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/marufuku-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/PIC_0003.jpg",
+        "caption": "マルフク池田水産の紹介写真 2"
+      }
+    ]
+  },
+  {
+    "id": "matsuya",
+    "name": "松屋菓子舗",
+    "category": "food shopping",
+    "label": "和洋菓子",
+    "symbol": "菓",
+    "title": "昆布の風味を、お菓子に。",
+    "intro": "昭和30年創業の和洋菓子店。三石昆布もなかから手作りのケーキまで、地元らしいお菓子に出会えます。",
+    "story": "特産の昆布を白餡と合わせたお菓子と、洋菓子の両方を紹介しているお店です。店舗公式サイトでは、国道沿いの店舗やイートインスペースも案内されています。",
+    "items": [
+      [
+        "三石昆布もなか",
+        "昆布を白餡と練り合わせた、三石らしさを感じる銘菓。"
+      ],
+      [
+        "こんぶまんじゅう・磯羊羹",
+        "昆布を取り入れた和菓子も紹介されています。"
+      ],
+      [
+        "オリジナルハウス・チーズケーキ",
+        "松屋ならではのケーキ。好みに合わせて和菓子と洋菓子を選べます。"
+      ]
+    ],
+    "address": "新ひだか町三石本町107-5",
+    "phone": "0146-33-2435",
+    "hours": "月〜土 9:00〜19:00 / 日曜 9:00〜16:00",
+    "closed": "1月1日",
+    "extra": "店舗公式では駐車場2台・イートインの案内があります。利用可否は来店前に確認してください。",
+    "source": "https://matsuyakasiho.com/",
+    "sourceName": "松屋菓子舗 公式サイト",
+    "caution": "営業時間は店舗公式の記載を採用しています。旧地域サイトの月〜土の時間とは異なります。",
+    "originalSource": "https://3214ch.com/shop/matsuya",
+    "official": "https://matsuyakasiho.com/",
+    "photos": [
+      {
+        "path": "assets/shops/matsuya-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/matsuya01.jpg",
+        "caption": "松屋菓子舗の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/matsuya-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/matsuya02.jpg",
+        "caption": "松屋菓子舗の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/matsuya-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/matsuya03.jpg",
+        "caption": "松屋菓子舗の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "mitsuishi-konbu",
+    "name": "みついし昆布㈱",
+    "category": "shopping food",
+    "label": "昆布・特産品",
+    "symbol": "昆",
+    "title": "だしだけじゃない、昆布との出会い。",
+    "intro": "日高昆布のドレッシングやふりかけ佃煮など、昆布を身近に楽しむ商品を紹介しているお店です。",
+    "story": "現サイトでは、昆布の風味を生かした食品のほか、昆布ソフトクリームも紹介されています。普段の食卓にも旅のお土産にも、昆布の楽しみ方を広げてくれるお店です。",
+    "items": [
+      [
+        "日高昆布万能ドレッシング",
+        "いつもの食卓に昆布を取り入れたいときの選択肢。"
+      ],
+      [
+        "自分で作るふりかけ佃煮",
+        "現サイトで紹介されている、作る楽しみもある商品。"
+      ],
+      [
+        "昆布ソフトクリーム",
+        "現サイトの紹介商品です。現在の販売有無や販売時期は店舗へご確認ください。"
+      ]
+    ],
+    "address": "新ひだか町三石港町26",
+    "phone": "0146-33-2006",
+    "hours": "8:30〜18:00",
+    "closed": "不定休",
+    "source": "https://3214ch.com/shop/mitsuishi-konbu",
+    "sourceName": "現サイトの店舗紹介",
+    "originalSource": "https://3214ch.com/shop/mitsuishi-konbu",
+    "official": "http://yorokonbu.com/",
+    "photos": [
+      {
+        "path": "assets/shops/mitsuishi-konbu-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/mitsuishi01.jpg",
+        "caption": "みついし昆布㈱の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/mitsuishi-konbu-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/3d6fb27b32ca2d9389d2751df732b2eb.jpg",
+        "caption": "みついし昆布㈱の紹介写真 2"
+      }
+    ]
+  },
+  {
+    "id": "yasuda",
+    "name": "安田食品店",
+    "category": "shopping food",
+    "label": "鮮魚・海産物",
+    "symbol": "魚",
+    "title": "日高の海の幸を、食卓へ。",
+    "intro": "日高沖の鮮魚を扱うお店。魚選びだけでなく、調理方法についての案内も紹介されています。",
+    "story": "長年の海産物の取り扱いで培った知識を生かし、魚に合った料理方法も伝えるというお店です。日々の買い物や、三石の海の幸を知りたいときの入口になります。",
+    "items": [
+      [
+        "日高沖の鮮魚",
+        "その日の魚は入荷次第。欲しい魚がある場合は来店前の確認を。"
+      ],
+      [
+        "料理方法の相談",
+        "現サイトでは、魚に合う調理方法を案内できると紹介されています。"
+      ]
+    ],
+    "address": "新ひだか町三石本町15",
+    "phone": "0146-33-2413",
+    "hours": "7:00〜18:00",
+    "closed": "不定休",
+    "source": "https://3214ch.com/shop/yasuda",
+    "sourceName": "現サイトの店舗紹介",
+    "originalSource": "https://3214ch.com/shop/yasuda",
+    "official": "http://kaneyasu3883.com",
+    "photos": [
+      {
+        "path": "assets/shops/yasuda-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/yasuda01.jpg",
+        "caption": "安田食品店の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/yasuda-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/0d9004783ac2206775510a9f677827de.jpg",
+        "caption": "安田食品店の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/yasuda-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/ya17.jpg",
+        "caption": "安田食品店の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "yagi",
+    "name": "八木菓子舗",
+    "category": "food shopping",
+    "label": "三石羊羹・和菓子",
+    "symbol": "羊",
+    "title": "受け継がれてきた、三石の甘味。",
+    "intro": "明治43年創業と紹介される、元祖三石羊羹のお店。餡づくりと羊羹づくりの技を伝えています。",
+    "story": "現サイトでは、創業以来受け継がれてきた餡の技と、職人の羊羹づくりへのこだわりを紹介しています。三石のお菓子を知るなら、まず名前を覚えておきたい一軒です。",
+    "items": [
+      [
+        "元祖三石羊羹",
+        "お店の看板として紹介されている和菓子。"
+      ],
+      [
+        "三石のお土産に",
+        "サイズ・包装・現在の品揃えは、店舗へ問い合わせてから訪れると安心です。"
+      ]
+    ],
+    "address": "新ひだか町三石本町35",
+    "phone": "0120-532-148",
+    "hours": "7:30〜19:30",
+    "closed": "1月1日",
+    "source": "https://3214ch.com/shop/yagi",
+    "sourceName": "現サイトの店舗紹介",
+    "originalSource": "https://3214ch.com/shop/yagi",
+    "official": "http://www.gansomitsuishiyokan.com/",
+    "photos": [
+      {
+        "path": "assets/shops/yagi-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/yagi01.jpg",
+        "caption": "八木菓子舗の紹介写真 1"
+      },
+      {
+        "path": "assets/shops/yagi-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/2ce2f21faefb2cc3d21edc53a55dd8d1.jpg",
+        "caption": "八木菓子舗の紹介写真 2"
+      },
+      {
+        "path": "assets/shops/yagi-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2017/04/yagi03.jpg",
+        "caption": "八木菓子舗の紹介写真 3"
+      }
+    ]
+  },
+  {
+    "id": "mitsuishi-kankyo",
+    "category": "life",
+    "label": "施設管理・地域サービス",
+    "title": "道の駅と海浜公園を、地域のそばで支える。",
+    "intro": "道の駅みついしに所在し、施設管理や清掃を担う事業所。三石を訪れる人と地域をつなぐ存在です。",
+    "story": "現サイトでは、道の駅みついしや海浜公園の管理、役場施設関係の清掃業務が紹介されています。道の駅を訪れた際に、地域について気軽に尋ねてほしいという案内もあり、観光の入口を日々支える仕事が見えてきます。",
+    "items": [
+      [
+        "道の駅・海浜公園の管理",
+        "地域の施設を支える業務が紹介されています。"
+      ],
+      [
+        "施設の清掃業務",
+        "役場施設関係の清掃にも携わる事業所です。"
+      ],
+      [
+        "地域情報の案内",
+        "道の駅で地域のことを尋ねられると紹介されています。対応状況は現地でご確認ください。"
+      ]
+    ],
+    "name": "みついし環境サービス",
+    "hours": "8：30～17：30",
+    "closed": "12/31～1/5",
+    "phone": "0146-34-2488",
+    "address": "新ひだか町三石鳧舞161-2",
+    "source": "https://3214ch.com/shop/mitsuishi-kankyo",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/mitsuishi-kankyo",
+    "official": "",
+    "photos": [
+      {
+        "path": "assets/shops/mitsuishi-kankyo-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2022/05/mitsuishi-kankyo.jpg",
+        "caption": "みついし環境サービスの紹介写真 1"
+      }
+    ]
+  },
+  {
+    "id": "porto-mitsuishi",
+    "category": "food shopping life",
+    "label": "カフェ・ギフト・新聞販売",
+    "title": "人と、まちの魅力が行きかう、小さな港。",
+    "intro": "新聞販売店・ギフトショップ・カフェが一つになった複合店。新ひだかの品や工芸品、コーヒーに出会えます。",
+    "story": "2021年7月7日誕生と紹介される、ぽると・みついし。「PORTO」はポルトガル語で港を意味し、人々が集い、行きかう場所になりたいという願いが込められています。地域の名品を探す時間と、コーヒーでひと息つく時間。その両方を楽しむ入口になるお店です。",
+    "items": [
+      [
+        "地域のギフト",
+        "新ひだか町の名品やアイヌの工芸品などが紹介されています。"
+      ],
+      [
+        "オリジナルブレンドコーヒー",
+        "カフェで提供する飲みものとして掲載されています。"
+      ],
+      [
+        "こぶ茶・みついしの羊羹",
+        "三石らしい味でひと休み。現在の提供内容はお店へ。"
+      ],
+      [
+        "新聞販売",
+        "新聞販売店でもある複合店です。取り扱いの詳細はお問い合わせください。"
+      ]
+    ],
+    "name": "ぽると・みついし",
+    "hours": "9:00～18：00",
+    "closed": "月曜日（月曜が祝日の場合は翌日）",
+    "phone": "0146-49-2570",
+    "address": "新ひだか町三石本町54-4",
+    "source": "https://3214ch.com/shop/porto-mitsuishi",
+    "sourceName": "みついしどっとこむ 店舗紹介",
+    "originalSource": "https://3214ch.com/shop/porto-mitsuishi",
+    "official": "https://porto3214.com",
+    "photos": [
+      {
+        "path": "assets/shops/porto-mitsuishi-1.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2022/05/porto-mitsuishi2.jpeg",
+        "caption": "ぽると・みついしの紹介写真 1"
+      },
+      {
+        "path": "assets/shops/porto-mitsuishi-2.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2022/05/porto-mitsuishi3.jpeg",
+        "caption": "ぽると・みついしの紹介写真 2"
+      },
+      {
+        "path": "assets/shops/porto-mitsuishi-3.webp",
+        "source": "https://3214ch.com/wp-content/uploads/2022/05/porto-mitsuishi1.jpeg",
+        "caption": "ぽると・みついしの紹介写真 3"
+      }
+    ]
+  }
+]
