@@ -53,6 +53,6 @@ body,.shop-page{font-size:17px;line-height:1.95}
   .shop-page h2,.community-copy h2{font-size:24px}.community-hero p.shop-catch,.shop-catch{font-size:23px}
   .source-note h2{font-size:20px}.document-grid img{height:auto;max-height:none}
   .detail-footer p,.fine{font-size:13px}.community-sidebar nav a{min-height:44px}
-  #shops,#community,#about{scroll-margin-top:100px}
+  #shops,#community,#about{scroll-margin-top:0}
 }
 @media(max-width:360px){.logo img.logo-image{width:195px}.mobile-shop-links a{font-size:14px;padding:8px}.mobile-bottom-nav a{font-size:14px}.quick strong{font-size:14px}}
