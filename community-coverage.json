@@ -124,77 +124,57 @@
     ]
   },
   {
-    "original": "https://3214ch.com/shizunai-sakura",
+    "original": "https://www.sakuranamiki.com/maturi/shizunai-sakura.html",
     "new": "community/shizunai-sakura.html",
     "name": "しずない桜まつり",
     "photos": [
       {
-        "path": "assets/community/shizunai-sakura-1.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/sakura/sakura-01.jpg",
+        "path": "assets/community/festivals2026-sakura-front.webp",
+        "source": "https://www.shinhidaka-hokkaido.jp/hotnews/files/00009300/00009309/20260414172926.pdf",
         "number": 1
       },
       {
-        "path": "assets/community/shizunai-sakura-2.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/sakura/sakura2022.jpg",
+        "path": "assets/community/festivals2026-sakura-back.webp",
+        "source": "https://www.shinhidaka-hokkaido.jp/hotnews/files/00009300/00009309/2026415.pdf",
         "number": 2
-      },
-      {
-        "path": "assets/community/shizunai-sakura-3.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/sakura/sakura2022_map.jpg",
-        "number": 3
       }
     ],
     "tables": []
   },
   {
-    "original": "https://3214ch.com/houraisan-matsuri2018",
+    "original": "https://www.shinhidaka-hokkaido.jp/hotnews/detail/00009396.html",
     "new": "community/houraisan-matsuri2018.html",
     "name": "みついし蓬莱山まつり",
     "photos": [
       {
-        "path": "assets/community/houraisan-matsuri2018-1.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/houraisan/2018/shimenawa.jpg",
+        "path": "assets/community/festivals2026-houraisan-front.webp",
+        "source": "https://www.shinhidaka-hokkaido.jp/hotnews/files/00009300/00009396/20260622164123.jpg",
         "number": 1
       },
       {
-        "path": "assets/community/houraisan-matsuri2018-2.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/houraisan/2018/poster.jpg",
+        "path": "assets/community/festivals2026-houraisan-back.webp",
+        "source": "https://www.shinhidaka-hokkaido.jp/hotnews/files/00009300/00009396/20260622163909.jpg",
         "number": 2
-      },
-      {
-        "path": "assets/community/houraisan-matsuri2018-3.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/houraisan/2018/map.jpg",
-        "number": 3
       }
     ],
-    "tables": [
-      3,
-      12
-    ]
+    "tables": []
   },
   {
-    "original": "https://3214ch.com/natsumatsuri2017",
+    "original": "https://www.shinhidaka-hokkaido.jp/hotnews/detail/00009480.html",
     "new": "community/natsumatsuri2017.html",
     "name": "新ひだか夏まつり",
     "photos": [
       {
-        "path": "assets/community/natsumatsuri2017-1.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/natsumaturi/natsumaturi.jpg",
+        "path": "assets/community/festivals2026-summer-front.webp",
+        "source": "https://www.shinhidaka-hokkaido.jp/hotnews/files/00009400/00009480/20260729171812.jpg",
         "number": 1
       },
       {
-        "path": "assets/community/natsumatsuri2017-2.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/natsumaturi/hanabi.jpg",
+        "path": "assets/community/festivals2026-summer-back.webp",
+        "source": "https://www.shinhidaka-hokkaido.jp/hotnews/files/00009400/00009480/20260715115607.jpg",
         "number": 2
-      },
-      {
-        "path": "assets/community/natsumatsuri2017-3.webp",
-        "source": "https://3214ch.com/wp-content/themes/konbu-4/img/natsumaturi/poster-natsumaturi.jpg",
-        "number": 3
       }
     ],
-    "tables": [
-      2
-    ]
+    "tables": []
   }
 ]
